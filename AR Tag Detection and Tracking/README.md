@@ -11,6 +11,6 @@ The programs uses numpy, matplotlib and opencv libraries. Hence, these libraries
 3.  Run the following command for the python programs 
     - ```python main_AR_Detection.py``` for getting the video outputs for all the problem
 ## Authors
-Vasista Ayyagari
-Kumar Smabhav Mahipal
+Vasista Ayyagari,
+Kumar Smabhav Mahipal,
 Raghav Agarwal
