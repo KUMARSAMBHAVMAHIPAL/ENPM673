@@ -13,6 +13,6 @@ The programs uses numpy, matplotlib and csv libraries. Hence, these libraries sh
     - ```python question_2.py --datapath ./data/data_2.csv``` for Problem 2 and data_2
     - ```python question_3.py ``` for Problem 3
 ## Authors
-Vasista Ayyagari
-Kumar Smabhav Mahipal
+Vasista Ayyagari,
+Kumar Sambhav Mahipal,
 Raghav Agarwal
