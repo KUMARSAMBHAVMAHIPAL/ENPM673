@@ -13,6 +13,6 @@ The programs uses numpy, matplotlib and opencv libraries. Hence, these libraries
     - ```python lane_segmentation.py``` for getting the visualising the solutions to problem 2 
 
 ## Authors
-Vasista Ayyagari
-Kumar Sambhav Mahipal
+Vasista Ayyagari,
+Kumar Sambhav Mahipal,
 Raghav Agarwal
