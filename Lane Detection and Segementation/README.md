@@ -14,5 +14,5 @@ The programs uses numpy, matplotlib and opencv libraries. Hence, these libraries
 
 ## Authors
 Vasista Ayyagari
-Kumar Smabhav Mahipal
+Kumar Sambhav Mahipal
 Raghav Agarwal
