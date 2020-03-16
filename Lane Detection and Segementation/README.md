@@ -1,8 +1,6 @@
 # ENPM673-Project-2
 # Car Lane Detection
 This repository has a report in pdf format with  descriptions of problem 1 and 2. All the solutions of the problem set have been implemented in ```night_vision.py``` and ```lane_segmentation.py```. There is also a .ipynb notebook for testing.
-## Getting Started
-Download the entire .zip and extract in a folder. A python environment is required to run the codes.
 ## Prerequisites
 The programs uses numpy, matplotlib and opencv libraries. Hence, these libraries should be pre-installed. 
 ## Running the programs
